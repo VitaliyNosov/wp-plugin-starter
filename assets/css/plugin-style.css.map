@@ -1,0 +1,12 @@
+{
+    "version": 3,
+    "mappings": "ACAA,AAAA,MAAM,CAAC;EACH,MAAM,EAAE,iBAAiB;CAAG;;ACDhC,AAAA,MAAM,CAAC;EACH,KAAK,EAAE,GAAG;CAAG",
+    "sources": [
+        "plugin-style.sass",
+        "_admin.sass",
+        "_front.sass",
+        "_music-player-style.sass"
+    ],
+    "names": [],
+    "file": "plugin-style.css"
+}
